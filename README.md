@@ -3,7 +3,7 @@
 
 With this tool you can push all your local repos with simple command line query, usefull for a backup restor.
 
-##Usage
+## Usage
 
 ```console
 $ python3 GithubMultipleRepoPush <Directory_path> <Github_user_name> 
